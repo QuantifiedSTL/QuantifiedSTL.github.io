@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: 
-
-Sitemap: http://QuantifiedSTL.github.io/sitemap.xml 
