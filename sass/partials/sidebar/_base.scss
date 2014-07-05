@@ -18,13 +18,14 @@ aside.sidebar {
       @extend .side-shadow-border;
       + p {
         padding-top: .4em;
+        padding-bottom: 0em;
+        margin-bottom: 0.4em;
       }
     }
   }
   img {
     @extend .flex-content;
-    @extend .basic-alignment;
-    @include shadow-box($border: #fff .3em solid);
+    @extend .basic-alignment;   /* @include shadow-box($border: #fff .3em solid); */
   }
   ul {
     margin-bottom: 0.5em;

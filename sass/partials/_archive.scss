@@ -11,10 +11,10 @@
     }
     footer { padding: 0; margin: 0;}
   }
-  h1 { color: $text-color; margin-bottom: .3em; }
+  h1 { color: $text-color; margin-bottom: 0em; margin-left: 2em; }
   h2 { display: none; }
   h1 {
-    font-size: 1.5em;
+    font-size: 1.3em;
     a {
       @include hover-link;
       color: inherit;
@@ -30,8 +30,8 @@
   color: $text-color-light;
   .entry-content { display: none; }
   time {
-    font-size: .9em;
-    line-height: 1.2em;
+    font-size: 1em;
+    line-height: 1em;
     .month, .day { display: inline-block; }
     .month { text-transform: uppercase; }
   }
@@ -39,7 +39,7 @@
   &, .entry-content { a { @include link-colors(inherit, $link-color-hover); }}
   a:hover { color: $link-color-hover; }
   @media only screen and (min-width: 550px) {
-    article { margin-left: 5em; }
+    article { margin-left: 0em; }
     h2 {
       margin-bottom: .3em;
       font-weight: normal;
@@ -50,11 +50,11 @@
     }
     time {
       position: absolute;
-      text-align: right;
+      text-align: left;
       left: 0em;
-      top: 1.8em;
+      top: 1.4em;
     }
-    .year { display: none; }
+    .year { display: inline; }
     article {
       padding:{left: 4.5em; bottom: .7em;}
     }
