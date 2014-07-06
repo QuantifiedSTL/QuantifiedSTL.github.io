@@ -2,38 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="24a6bd59-99cd-4a59-9abd-962b8c7c8aed" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Rakefile" afterPath="$PROJECT_DIR$/Rakefile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.themes/classic/sass/partials/_archive.scss" afterPath="$PROJECT_DIR$/.themes/classic/sass/partials/_archive.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/partials/_archive.scss" afterPath="$PROJECT_DIR$/sass/partials/_archive.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.themes/classic/sass/partials/sidebar/_base.scss" afterPath="$PROJECT_DIR$/.themes/classic/sass/partials/sidebar/_base.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/partials/sidebar/_base.scss" afterPath="$PROJECT_DIR$/sass/partials/sidebar/_base.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.themes/classic/sass/partials/_blog.scss" afterPath="$PROJECT_DIR$/.themes/classic/sass/partials/_blog.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/partials/_blog.scss" afterPath="$PROJECT_DIR$/sass/partials/_blog.scss" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/blog/2014/07/04/hello-blog/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/2014-05-26-hello-blog.markdown" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/custom/_colors.scss" afterPath="$PROJECT_DIR$/sass/custom/_colors.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/custom/_fonts.scss" afterPath="$PROJECT_DIR$/sass/custom/_fonts.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/custom/_styles.scss" afterPath="$PROJECT_DIR$/sass/custom/_styles.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/partials/_syntax.scss" afterPath="$PROJECT_DIR$/sass/partials/_syntax.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.themes/classic/sass/base/_theme.scss" afterPath="$PROJECT_DIR$/.themes/classic/sass/base/_theme.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/base/_theme.scss" afterPath="$PROJECT_DIR$/sass/base/_theme.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.themes/classic/sass/base/_typography.scss" afterPath="$PROJECT_DIR$/.themes/classic/sass/base/_typography.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/base/_typography.scss" afterPath="$PROJECT_DIR$/sass/base/_typography.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_includes/custom/asides/about.html" afterPath="$PROJECT_DIR$/source/_includes/custom/asides/about.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/gist_tag.rb" afterPath="$PROJECT_DIR$/plugins/gist_tag.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.themes/classic/source/_includes/custom/head.html" afterPath="$PROJECT_DIR$/.themes/classic/source/_includes/custom/head.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/atom.xml" afterPath="$PROJECT_DIR$/build/atom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/stylesheets/data-table.css" afterPath="$PROJECT_DIR$/build/stylesheets/data-table.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/stylesheets/data-table.css" afterPath="$PROJECT_DIR$/source/stylesheets/data-table.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_includes/head.html" afterPath="$PROJECT_DIR$/source/_includes/head.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_includes/custom/head.html" afterPath="$PROJECT_DIR$/source/_includes/custom/head.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.themes/classic/source/index.html" afterPath="$PROJECT_DIR$/.themes/classic/source/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.themes/classic/source/blog/archives/index.html" afterPath="$PROJECT_DIR$/.themes/classic/source/blog/archives/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/index.html" afterPath="$PROJECT_DIR$/source/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/blog/archives/index.html" afterPath="$PROJECT_DIR$/source/blog/archives/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_includes/custom/navigation.html" afterPath="$PROJECT_DIR$/source/_includes/custom/navigation.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.themes/classic/source/javascripts/octopress.js" afterPath="$PROJECT_DIR$/.themes/classic/source/javascripts/octopress.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/javascripts/octopress.js" afterPath="$PROJECT_DIR$/source/javascripts/octopress.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/octopress_filters.rb" afterPath="$PROJECT_DIR$/plugins/octopress_filters.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_includes/asides/recent_posts.html" afterPath="$PROJECT_DIR$/source/_includes/asides/recent_posts.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/index.html" afterPath="$PROJECT_DIR$/build/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/blog/index.html" afterPath="$PROJECT_DIR$/build/blog/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/blog/archives/index.html" afterPath="$PROJECT_DIR$/build/blog/archives/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/stylesheets/screen.css" afterPath="$PROJECT_DIR$/build/stylesheets/screen.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/sitemap.xml" afterPath="$PROJECT_DIR$/build/sitemap.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="octopress.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -56,28 +40,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/source/index.html">
+      <file leaf-file-name="2014-07-05-a-screening-of-qs-presentations.markdown" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/source/_posts/2014-07-05-a-screening-of-qs-presentations.markdown">
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
+          </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="0" selection-start="781" selection-end="781" vertical-scroll-proportion="0.6241033" vertical-offset="0" max-vertical-offset="697">
+            <state line="35" column="20" selection-start="3011" selection-end="3011" vertical-scroll-proportion="0.7709251" vertical-offset="0" max-vertical-offset="690">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/blog/index.html">
+      <file leaf-file-name="data-table.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/stylesheets/data-table.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="735" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="525">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/blog/archives/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="14" selection-start="31" selection-end="31" vertical-scroll-proportion="-1.25" vertical-offset="0" max-vertical-offset="465">
+            <state line="18" column="20" selection-start="304" selection-end="304" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="570">
               <folding />
             </state>
           </provider>
@@ -101,22 +79,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/.themes/hpstr/source/categories.html" />
-        <option value="$PROJECT_DIR$/source/categories.html" />
-        <option value="$PROJECT_DIR$/source/_posts/2012-07-22-intro.markdown" />
-        <option value="$PROJECT_DIR$/source/_layouts/post.html" />
-        <option value="$PROJECT_DIR$/source/_layouts/page.html" />
-        <option value="$PROJECT_DIR$/source/_includes/post/author.html" />
-        <option value="$PROJECT_DIR$/source/_includes/head.html" />
-        <option value="$PROJECT_DIR$/Gemfile" />
-        <option value="$PROJECT_DIR$/source/_posts/2014-05-26-hello-blog.markdown" />
-        <option value="$PROJECT_DIR$/_config.yml" />
-        <option value="$PROJECT_DIR$/source/_includes/custom/asides/about.html" />
-        <option value="$PROJECT_DIR$/source/_includes/asides/github.html" />
-        <option value="$PROJECT_DIR$/source/_includes/custom/navigation.html" />
-        <option value="$PROJECT_DIR$/source/blog/archives/index.html" />
         <option value="$PROJECT_DIR$/Rakefile" />
         <option value="$PROJECT_DIR$/source/index.html" />
+        <option value="$PROJECT_DIR$/source/javascripts/posts/inaugural_meetup/diySlideShow.js" />
+        <option value="$PROJECT_DIR$/source/_posts/2014-05-26-hello-blog.markdown" />
+        <option value="$PROJECT_DIR$/source/_posts/2014-07-05-highlights-from-the-inaugural-meetup.markdown" />
+        <option value="$PROJECT_DIR$/source/_posts/2014-07-05-choosing-qs-videos-for-the-next-meetup.markdown" />
+        <option value="$PROJECT_DIR$/source/_includes/article.html" />
+        <option value="$PROJECT_DIR$/sass/base/_typography.scss" />
+        <option value="$PROJECT_DIR$/sass/base/_theme.scss" />
+        <option value="$PROJECT_DIR$/sass/custom/_colors.scss" />
+        <option value="$PROJECT_DIR$/source/_includes/head.html" />
+        <option value="$PROJECT_DIR$/source/_includes/custom/head.html" />
+        <option value="$PROJECT_DIR$/source/_posts/2014-07-05-choosing-qs-videos-to-watch.markdown" />
+        <option value="$PROJECT_DIR$/source/stylesheets/data-table.css" />
+        <option value="$PROJECT_DIR$/source/_posts/2014-07-05-choosing-qs-presentations-to-watch.markdown" />
+        <option value="$PROJECT_DIR$/source/_posts/2014-07-05-a-screening-of-qs-presentations.markdown" />
       </list>
     </option>
   </component>
@@ -198,7 +176,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="blog" />
+              <option name="myItemId" value="stylesheets" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -216,11 +194,115 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="blog" />
+              <option name="myItemId" value="_posts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="octopress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="octopress" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="archives" />
+              <option name="myItemId" value="source" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_layouts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="octopress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="octopress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="source" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_includes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="octopress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="octopress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="source" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_includes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="custom" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="octopress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="octopress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sass" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="octopress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="octopress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sass" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="custom" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="octopress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="octopress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sass" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="base" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -285,16 +367,16 @@
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20149253" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15413533" sideWeight="0.79850745" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15413533" sideWeight="0.79850745" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -315,117 +397,120 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/source/_includes/post/author.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="11" selection-start="175" selection-end="175" vertical-scroll-proportion="-3.75" vertical-offset="0" max-vertical-offset="210">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_includes/article.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="10" selection-start="38" selection-end="38" vertical-scroll-proportion="-0.625" vertical-offset="0" max-vertical-offset="525">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_includes/head.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="0" selection-start="2084" selection-end="2084" vertical-scroll-proportion="0.8440208" vertical-offset="8" max-vertical-offset="585">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plugins/rubypants.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="2" selection-start="1242" selection-end="1242" vertical-scroll-proportion="0.0" vertical-offset="375" max-vertical-offset="7425">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.sass-cache/d103bfdbe14cf732654d1f847530a1dfb09b4fe9/_ellipsis.scssc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="3" selection-start="653" selection-end="653" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="1515">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="25" selection-start="91" selection-end="91" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="405">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/2014-05-26-hello-blog.markdown">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="15" selection-start="65" selection-end="65" vertical-scroll-proportion="-2.2222223" vertical-offset="0" max-vertical-offset="255">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_includes/custom/asides/twitter.html">
+    <entry file="file://$PROJECT_DIR$/source/_layouts/page.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="721">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_includes/custom/asides/about.html">
+    <entry file="file://$PROJECT_DIR$/source/_layouts/default.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="88" selection-start="116" selection-end="116" vertical-scroll-proportion="-1.25" vertical-offset="0" max-vertical-offset="165">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="708">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_includes/asides/github.html">
+    <entry file="file://$PROJECT_DIR$/source/_includes/article.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="23" selection-start="301" selection-end="303" vertical-scroll-proportion="-2.7551022" vertical-offset="0" max-vertical-offset="540">
+        <state line="3" column="9" selection-start="67" selection-end="67" vertical-scroll-proportion="0.06456241" vertical-offset="0" max-vertical-offset="697">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_includes/custom/navigation.html">
+    <entry file="file://$PROJECT_DIR$/sass/custom/_fonts.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="52" selection-start="145" selection-end="145" vertical-scroll-proportion="-1.25" vertical-offset="0" max-vertical-offset="165">
+        <state line="12" column="0" selection-start="531" selection-end="536" vertical-scroll-proportion="0.26785713" vertical-offset="0" max-vertical-offset="672">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/base/_solarized.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="780">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/base/_theme.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="20" selection-start="107" selection-end="113" vertical-scroll-proportion="0.08928572" vertical-offset="0" max-vertical-offset="1365">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/base/_typography.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="14" selection-start="657" selection-end="657" vertical-scroll-proportion="0.21638331" vertical-offset="115" max-vertical-offset="2550">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/custom/_colors.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="22" selection-start="485" selection-end="485" vertical-scroll-proportion="0.3794643" vertical-offset="0" max-vertical-offset="1020">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="70" selection-start="498" selection-end="498" vertical-scroll-proportion="-8.4" vertical-offset="0" max-vertical-offset="1590">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1590">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.markdown">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="705">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Rakefile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="24" selection-start="513" selection-end="513" vertical-scroll-proportion="0.38793105" vertical-offset="0" max-vertical-offset="6150">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="6150">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/blog/archives/index.html">
+    <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="14" selection-start="31" selection-end="31" vertical-scroll-proportion="-1.25" vertical-offset="0" max-vertical-offset="465">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="721">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/blog/index.html">
+    <entry file="file://$PROJECT_DIR$/source/_includes/custom/head.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="735" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="525">
+        <state line="117" column="5" selection-start="3261" selection-end="3261" vertical-scroll-proportion="-24.041666" vertical-offset="1178" max-vertical-offset="1875">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/index.html">
+    <entry file="file://$PROJECT_DIR$/source/_includes/head.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="0" selection-start="781" selection-end="781" vertical-scroll-proportion="0.6241033" vertical-offset="0" max-vertical-offset="697">
+        <state line="29" column="37" selection-start="2072" selection-end="2072" vertical-scroll-proportion="-18.125" vertical-offset="0" max-vertical-offset="585">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/stylesheets/data-table.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="20" selection-start="304" selection-end="304" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="570">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/2014-07-05-a-screening-of-qs-presentations.markdown">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="20" selection-start="3011" selection-end="3011" vertical-scroll-proportion="0.7709251" vertical-offset="0" max-vertical-offset="690">
           <folding />
         </state>
       </provider>

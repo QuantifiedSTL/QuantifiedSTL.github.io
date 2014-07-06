@@ -10,10 +10,10 @@ $page-bg: #ffffff;
 $main-bg: #ffffff;
 
 $header-bg: #ffffff;
-$title-color: #000000;
-$subtitle-color: #000000;
+$title-color: #111111;
+$subtitle-color: #222222;
 
-$text-color: #000000;
+$text-color: #222222;
 
 //$header-bg: #263347;
 //$subtitle-color: lighten($header-bg, 58);
@@ -21,7 +21,7 @@ $nav-bg: desaturate(#edf4fa, 40);
 //$nav-bg-front: image-url('noise.png');
 $nav-bg-back: desaturate(#edf4fa, 40);
 $nav-color: #000000;
-$nav-color-hover: adjust-color(#996600, $lightness: 10, $saturation: 25);
+$nav-color-hover: #0393DD;
 
 $nav-border: darken($nav-bg, 10);
 $nav-border-top: lighten($nav-bg, 15) !default;

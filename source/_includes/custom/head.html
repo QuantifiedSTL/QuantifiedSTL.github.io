@@ -20,6 +20,10 @@
 <script src='//api.tiles.mapbox.com/mapbox.js/v1.5.2/mapbox.js'></script>
 <link href='//api.tiles.mapbox.com/mapbox.js/v1.5.2/mapbox.css' rel='stylesheet'/>
 
+<script type="text/javascript">
+    var BASE_URL = '{{ root_url }}';
+</script>
+
 <style>
     .mapinfo {
         padding: 6px 8px;
@@ -45,5 +49,72 @@
         font-size: smaller;
     }
 
+    .diy-slideshow{
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 25px;
+        width:  75%;
+        position: relative;
+        display: block;
+        overflow: hidden;
+    }
+    .diy-slideshow figure{
+        position: absolute;
+        opacity: 0;
+        transition: 1s opacity;
+    }
+    .diy-slideshow figure img {
+        width: 100%;
+    }
+    .diy-slideshow figcaption{
+        position: absolute;
+        font-family: sans-serif;
+        font-size: .8em;
+        bottom: .75em;
+        right: .35em;
+        padding: .25em;
+        color: #fff;
+        background: rgba(0,0,0, .25);
+        border-radius: 2px;
+    }
+    .diy-slideshow figcaption a{
+        color: #fff;
+    }
+    .diy-slideshow figure.show{
+        opacity: 1;
+        position: static;
+        transition: 1s opacity;
+    }
+    .diy-slideshow .next, .diy-slideshow .prev{
+        color: #fff;
+        position: absolute;
+        background: rgba(0,0,0, .6);
+        top: 50%;
+        z-index: 1;
+        font-size: 2em;
+        margin-top: -.75em;
+        opacity: .3;
+        user-select: none;
+    }
+    .diy-slideshow .next:hover, .diy-slideshow .prev:hover{
+        cursor: pointer;
+        opacity: 1;
+    }
+    .diy-slideshow .next{
+        right: 0;
+        padding: 10px 5px 15px 10px;
+        border-top-left-radius: 3px;
+        border-bottom-left-radius: 3px;
+    }
+    .diy-slideshow .prev{
+        left: 0;
+        padding: 10px 10px 15px 5px;
+        border-top-right-radius: 3px;
+        border-bottom-right-radius: 3px;
+    }
+    .diy-slideshow p{
+        margin: 10px 20px;
+        color: #fff;
+    }
 
 </style>
