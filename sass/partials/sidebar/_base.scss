@@ -10,7 +10,7 @@ aside.sidebar {
     @extend .sans;
     font-size: .8em;
     line-height: 1.4em;
-    margin-bottom: 1.5em;
+    margin-bottom: 0.5em;
     h1 {
       margin: 1.5em 0 0;
       padding-bottom: .2em;
@@ -19,9 +19,11 @@ aside.sidebar {
       + p {
         padding-top: .4em;
         padding-bottom: 0em;
-        margin-bottom: 0.4em;
       }
     }
+  }
+  section p {
+    margin-bottom: 0.7em;
   }
   img {
     @extend .flex-content;
