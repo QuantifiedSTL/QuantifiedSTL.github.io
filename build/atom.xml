@@ -4,7 +4,7 @@
   <title><![CDATA[Quantified STL]]></title>
   <link href="http://QuantifiedSTL.github.io/atom.xml" rel="self"/>
   <link href="http://QuantifiedSTL.github.io/"/>
-  <updated>2014-07-07T00:04:41-05:00</updated>
+  <updated>2014-07-07T23:34:59-05:00</updated>
   <id>http://QuantifiedSTL.github.io/</id>
   <author>
     <name><![CDATA[QSTL]]></name>
@@ -19,10 +19,12 @@
     <updated>2014-07-05T00:00:00-05:00</updated>
     <id>http://QuantifiedSTL.github.io/blog/2014/07/05/a-screening-of-qs-presentations</id>
     <content type="html"><![CDATA[<p>For our upcoming meetup later this month (6PM July 22 at <a href="http://www.wiredhealthconference.com/">Lab 1500</a> downtown), we are trying a new format in our meetup rotation: we will screen
-a handful of presentations from the main <a href="http://quantifiedself.com/">QS blog</a>, which has accumulated hundreds videos from meetup groups around the world. That’s
-a lot of great talks to choose from. Over at the <a href="http://vimeo.com/groups/quantifiedself/sort:plays/format:detail">QS group page at Vimeo</a> where the videos are stored,
-it’s straightforward to sort the videos by number of plays or likes. Below is a listing of the top ten videos ranked by number of plays. At the meetup we’ll let attendees vote for the
-ones they’re most interested in watching.</p>
+a handful of presentations from the main <a href="http://quantifiedself.com/">QS blog</a>, which has accumulated hundreds of videos from meetup groups around the world. That’s
+a lot of great talks to choose from. Over on the <a href="http://vimeo.com/groups/quantifiedself/sort:plays/format:detail">QS group page at Vimeo</a> where the videos are stored,
+it’s straightforward to sort the videos by popularity and date. Below is a listing of the top ten videos ranked by number of plays.</p>
+
+<p>We’ve set up an <a href="https://github.com/QuantifiedSTL/QuantifiedSTL.github.io/wiki/Choosing-QS-presentations-to-watch">editable GitHub wiki page</a>
+for potential attendees to vote for videos they’d like to watch at our next meetup. At the meetup we’ll review the list and collectively decide which ones to watch.</p>
 
 <table>
   <thead>
@@ -109,7 +111,8 @@ ones they’re most interested in watching.</p>
 </table>
 
 <p><br />
-We also came across a ‘must see’ interview with the founders of the original QS group in San Francisco, Gary Wolf and Kevin Kelly, recorded
+We also came across a ‘must see’ <a href="http://fora.tv/2012/10/15/Wireds_Gary_Wolf__Kevin_Kelly_Talk_the_Quantified_Self">interview</a> with the
+founders of the original QS group in San Francisco, Gary Wolf and Kevin Kelly, recorded
 at the <a href="http://www.wiredhealthconference.com/">2012 Wired Health Conference</a>. We’ll probably kick things off with this one.</p>
 
 <div align="center">
@@ -120,23 +123,64 @@ at the <a href="http://www.wiredhealthconference.com/">2012 Wired Health Confere
   </entry>
   
   <entry>
+    <title type="html"><![CDATA[QS Civic Hacking]]></title>
+    <link href="http://QuantifiedSTL.github.io/blog/2014/06/06/june-meetup/"/>
+    <updated>2014-06-06T00:00:00-05:00</updated>
+    <id>http://QuantifiedSTL.github.io/blog/2014/06/06/june-meetup</id>
+    <content type="html"><![CDATA[<div class="post-photo" align="center">
+	<div class="bogus-wrapper"><notextile><figure>
+		<img src="../../../../../images/meetup_photos/2014_06/Lab1500.jpg" />
+		<figcaption>Rockin&#8217; it at Lab1500</figcaption>
+	</figure></notextile></div>
+</div>
+
+<p><em>Article under construction…</em></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Show and Tell #2 Recap]]></title>
+    <link href="http://QuantifiedSTL.github.io/blog/2014/05/02/april-meetup/"/>
+    <updated>2014-05-02T00:00:00-05:00</updated>
+    <id>http://QuantifiedSTL.github.io/blog/2014/05/02/april-meetup</id>
+    <content type="html"><![CDATA[<div class="post-photo" align="center">
+	<div class="bogus-wrapper"><notextile><figure>
+		<img src="../../../../../images/meetup_photos/2014_04/andrewknightpresents.JPG" />
+		<figcaption>Andrew Knight electrifies the audience</figcaption>
+	</figure></notextile></div>
+</div>
+
+<p><em>Article under construction…</em></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[QS Working Session #1]]></title>
+    <link href="http://QuantifiedSTL.github.io/blog/2014/03/14/march-meetup/"/>
+    <updated>2014-03-14T00:00:00-05:00</updated>
+    <id>http://QuantifiedSTL.github.io/blog/2014/03/14/march-meetup</id>
+    <content type="html"><![CDATA[<div class="post-photo" align="center">
+	<div class="bogus-wrapper"><notextile><figure>
+		<img src="../../../../../images/meetup_photos/2014_03/groupshot.jpg" />
+		<figcaption>Self Quantifiers Unite!</figcaption>
+	</figure></notextile></div>
+</div>
+
+<p><em>Article under construction…</em></p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Highlights From the Inaugural Meetup]]></title>
     <link href="http://QuantifiedSTL.github.io/blog/2014/01/24/highlights-from-the-inaugural-meetup/"/>
     <updated>2014-01-24T00:00:00-06:00</updated>
     <id>http://QuantifiedSTL.github.io/blog/2014/01/24/highlights-from-the-inaugural-meetup</id>
-    <content type="html"><![CDATA[<div class="diy-slideshow">
-	<div class="bogus-wrapper"><notextile><figure class="show">
-		<img src="http://photos1.meetupstatic.com/photos/event/a/0/a/2/highres_326261122.jpeg" />
-		<figcaption>Welcome to Quantified Self St. Louis!</figcaption>
-	</figure></notextile></div>
+    <content type="html"><![CDATA[<div class="post-photo" align="center">
 	<div class="bogus-wrapper"><notextile><figure>
-		<img src="http://photos4.meetupstatic.com/photos/event/a/0/c/0/highres_326261152.jpeg" />
+		<img src="../../../../../images/meetup_photos/2014_01/mingling.jpeg" />
 		<figcaption>Self Quantifiers mingle before the session.</figcaption>
 	</figure></notextile></div>
-  <span class="prev">&laquo;</span>
-  <span class="next">&raquo;</span>
 </div>
-<script src="../../../../../javascripts/posts/inaugural_meetup/diySlideShow.js"></script>
 
 <p>Our fledgling St. Louis QS meetup group got off to a great start with our first <a href="http://www.meetup.com/QS-STL/events/157767622/">meetup</a>
 Tuesday evening, Jan. 21, 2014.  The event was held at the <a href="http://fltc.wustl.edu/">Farrell Learning and Teaching Center</a> on the

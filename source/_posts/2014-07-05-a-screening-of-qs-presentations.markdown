@@ -10,10 +10,12 @@ published: true
 ---
 
 For our upcoming meetup later this month (6PM July 22 at [Lab 1500](http://www.wiredhealthconference.com/) downtown), we are trying a new format in our meetup rotation: we will screen
-a handful of presentations from the main [QS blog](http://quantifiedself.com/), which has accumulated hundreds videos from meetup groups around the world. That's
-a lot of great talks to choose from. Over at the [QS group page at Vimeo](http://vimeo.com/groups/quantifiedself/sort:plays/format:detail) where the videos are stored,
-it's straightforward to sort the videos by number of plays or likes. Below is a listing of the top ten videos ranked by number of plays. At the meetup we'll let attendees vote for the
-ones they're most interested in watching.
+a handful of presentations from the main [QS blog](http://quantifiedself.com/), which has accumulated hundreds of videos from meetup groups around the world. That's
+a lot of great talks to choose from. Over on the [QS group page at Vimeo](http://vimeo.com/groups/quantifiedself/sort:plays/format:detail) where the videos are stored,
+it's straightforward to sort the videos by popularity and date. Below is a listing of the top ten videos ranked by number of plays.
+
+We've set up an [editable GitHub wiki page](https://github.com/QuantifiedSTL/QuantifiedSTL.github.io/wiki/Choosing-QS-presentations-to-watch)
+for potential attendees to vote for videos they'd like to watch at our next meetup. At the meetup we'll review the list and collectively decide which ones to watch.
 
 
 | plays | likes | presentation | date | length (min) |
@@ -30,7 +32,8 @@ ones they're most interested in watching.
 | 2980 | 13 | <a href="http://quantifiedself.com/2012/05/jeremy-howard-on-language-acquisition-performance/">Jeremy Howard on Language Acquisition Performance</a> | 2012/05/28 | 16.0 |
 
 <br>
-We also came across a 'must see' interview with the founders of the original QS group in San Francisco, Gary Wolf and Kevin Kelly, recorded
+We also came across a 'must see' [interview](http://fora.tv/2012/10/15/Wireds_Gary_Wolf__Kevin_Kelly_Talk_the_Quantified_Self) with the
+founders of the original QS group in San Francisco, Gary Wolf and Kevin Kelly, recorded
 at the [2012 Wired Health Conference](http://www.wiredhealthconference.com/). We'll probably kick things off with this one.
 
 <div align="center">

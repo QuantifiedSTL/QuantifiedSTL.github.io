@@ -9,19 +9,12 @@ author: Will Dahl
 published: true
 ---
 
-<div class="diy-slideshow">
-	<figure class="show">
-		<img src="http://photos1.meetupstatic.com/photos/event/a/0/a/2/highres_326261122.jpeg"/>
-		<figcaption>Welcome to Quantified Self St. Louis!</figcaption>
-	</figure>
+<div class="post-photo" align="center">
 	<figure>
-		<img src="http://photos4.meetupstatic.com/photos/event/a/0/c/0/highres_326261152.jpeg"/>
+		<img src="../../../../../images/meetup_photos/2014_01/mingling.jpeg"/>
 		<figcaption>Self Quantifiers mingle before the session.</figcaption>
 	</figure>
-  <span class="prev">&laquo;</span>
-  <span class="next">&raquo;</span>
 </div>
-<script src="../../../../../javascripts/posts/inaugural_meetup/diySlideShow.js"></script>
 
 Our fledgling St. Louis QS meetup group got off to a great start with our first [meetup](http://www.meetup.com/QS-STL/events/157767622/)
 Tuesday evening, Jan. 21, 2014.  The event was held at the [Farrell Learning and Teaching Center](http://fltc.wustl.edu/) on the
