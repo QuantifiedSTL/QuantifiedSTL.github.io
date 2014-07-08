@@ -79,24 +79,23 @@ a &hellip;">
         font-size: smaller;
     }
 
-    .diy-slideshow{
+    .post-photo{
         margin-left: auto;
         margin-right: auto;
         margin-bottom: 25px;
-        width:  75%;
+        width:  100%;
         position: relative;
         display: block;
         overflow: hidden;
     }
-    .diy-slideshow figure{
-        position: absolute;
-        opacity: 0;
-        transition: 1s opacity;
-    }
-    .diy-slideshow figure img {
+    /*.post-photo figure{*/
+        /*position: absolute;*/
+        /*opacity: 0;*/
+    /*}*/
+    .post-photo figure img {
         width: 100%;
     }
-    .diy-slideshow figcaption{
+    .post-photo figcaption{
         position: absolute;
         font-family: sans-serif;
         font-size: .8em;
@@ -107,45 +106,10 @@ a &hellip;">
         background: rgba(0,0,0, .25);
         border-radius: 2px;
     }
-    .diy-slideshow figcaption a{
+    .post-photo figcaption a{
         color: #fff;
     }
-    .diy-slideshow figure.show{
-        opacity: 1;
-        position: static;
-        transition: 1s opacity;
-    }
-    .diy-slideshow .next, .diy-slideshow .prev{
-        color: #fff;
-        position: absolute;
-        background: rgba(0,0,0, .6);
-        top: 50%;
-        z-index: 1;
-        font-size: 2em;
-        margin-top: -.75em;
-        opacity: .3;
-        user-select: none;
-    }
-    .diy-slideshow .next:hover, .diy-slideshow .prev:hover{
-        cursor: pointer;
-        opacity: 1;
-    }
-    .diy-slideshow .next{
-        right: 0;
-        padding: 10px 5px 15px 10px;
-        border-top-left-radius: 3px;
-        border-bottom-left-radius: 3px;
-    }
-    .diy-slideshow .prev{
-        left: 0;
-        padding: 10px 10px 15px 5px;
-        border-top-right-radius: 3px;
-        border-bottom-right-radius: 3px;
-    }
-    .diy-slideshow p{
-        margin: 10px 20px;
-        color: #fff;
-    }
+
 
 </style>
   
@@ -213,10 +177,12 @@ a &hellip;">
 
 
 <div class="entry-content"><p>For our upcoming meetup later this month (6PM July 22 at <a href="http://www.wiredhealthconference.com/">Lab 1500</a> downtown), we are trying a new format in our meetup rotation: we will screen
-a handful of presentations from the main <a href="http://quantifiedself.com/">QS blog</a>, which has accumulated hundreds videos from meetup groups around the world. That’s
-a lot of great talks to choose from. Over at the <a href="http://vimeo.com/groups/quantifiedself/sort:plays/format:detail">QS group page at Vimeo</a> where the videos are stored,
-it’s straightforward to sort the videos by number of plays or likes. Below is a listing of the top ten videos ranked by number of plays. At the meetup we’ll let attendees vote for the
-ones they’re most interested in watching.</p>
+a handful of presentations from the main <a href="http://quantifiedself.com/">QS blog</a>, which has accumulated hundreds of videos from meetup groups around the world. That’s
+a lot of great talks to choose from. Over on the <a href="http://vimeo.com/groups/quantifiedself/sort:plays/format:detail">QS group page at Vimeo</a> where the videos are stored,
+it’s straightforward to sort the videos by popularity and date. Below is a listing of the top ten videos ranked by number of plays.</p>
+
+<p>We’ve set up an <a href="https://github.com/QuantifiedSTL/QuantifiedSTL.github.io/wiki/Choosing-QS-presentations-to-watch">editable GitHub wiki page</a>
+for potential attendees to vote for videos they’d like to watch at our next meetup. At the meetup we’ll review the list and collectively decide which ones to watch.</p>
 
 <table>
   <thead>
@@ -303,7 +269,8 @@ ones they’re most interested in watching.</p>
 </table>
 
 <p><br />
-We also came across a ‘must see’ interview with the founders of the original QS group in San Francisco, Gary Wolf and Kevin Kelly, recorded
+We also came across a ‘must see’ <a href="http://fora.tv/2012/10/15/Wireds_Gary_Wolf__Kevin_Kelly_Talk_the_Quantified_Self">interview</a> with the
+founders of the original QS group in San Francisco, Gary Wolf and Kevin Kelly, recorded
 at the <a href="http://www.wiredhealthconference.com/">2012 Wired Health Conference</a>. We’ll probably kick things off with this one.</p>
 
 <div align="center">
@@ -349,7 +316,7 @@ at the <a href="http://www.wiredhealthconference.com/">2012 Wired Health Confere
     
     <p class="meta">
       
-        <a class="basic-alignment left" href="/blog/2014/01/24/highlights-from-the-inaugural-meetup/" title="Previous Post: Highlights from the inaugural meetup">&laquo; Highlights from the inaugural meetup</a>
+        <a class="basic-alignment left" href="/blog/2014/06/06/june-meetup/" title="Previous Post: QS Civic Hacking">&laquo; QS Civic Hacking</a>
       
       
     </p>
@@ -367,6 +334,18 @@ at the <a href="http://www.wiredhealthconference.com/">2012 Wired Health Confere
     
       <li class="post">
         <a href="/blog/2014/07/05/a-screening-of-qs-presentations/">A Screening of QS Presentations</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2014/06/06/june-meetup/">QS Civic Hacking</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2014/05/02/april-meetup/">Show and Tell #2 Recap</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2014/03/14/march-meetup/">QS Working Session #1</a>
       </li>
     
       <li class="post">

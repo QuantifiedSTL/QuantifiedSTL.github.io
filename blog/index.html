@@ -79,24 +79,23 @@ a &hellip;">
         font-size: smaller;
     }
 
-    .diy-slideshow{
+    .post-photo{
         margin-left: auto;
         margin-right: auto;
         margin-bottom: 25px;
-        width:  75%;
+        width:  100%;
         position: relative;
         display: block;
         overflow: hidden;
     }
-    .diy-slideshow figure{
-        position: absolute;
-        opacity: 0;
-        transition: 1s opacity;
-    }
-    .diy-slideshow figure img {
+    /*.post-photo figure{*/
+        /*position: absolute;*/
+        /*opacity: 0;*/
+    /*}*/
+    .post-photo figure img {
         width: 100%;
     }
-    .diy-slideshow figcaption{
+    .post-photo figcaption{
         position: absolute;
         font-family: sans-serif;
         font-size: .8em;
@@ -107,45 +106,10 @@ a &hellip;">
         background: rgba(0,0,0, .25);
         border-radius: 2px;
     }
-    .diy-slideshow figcaption a{
+    .post-photo figcaption a{
         color: #fff;
     }
-    .diy-slideshow figure.show{
-        opacity: 1;
-        position: static;
-        transition: 1s opacity;
-    }
-    .diy-slideshow .next, .diy-slideshow .prev{
-        color: #fff;
-        position: absolute;
-        background: rgba(0,0,0, .6);
-        top: 50%;
-        z-index: 1;
-        font-size: 2em;
-        margin-top: -.75em;
-        opacity: .3;
-        user-select: none;
-    }
-    .diy-slideshow .next:hover, .diy-slideshow .prev:hover{
-        cursor: pointer;
-        opacity: 1;
-    }
-    .diy-slideshow .next{
-        right: 0;
-        padding: 10px 5px 15px 10px;
-        border-top-left-radius: 3px;
-        border-bottom-left-radius: 3px;
-    }
-    .diy-slideshow .prev{
-        left: 0;
-        padding: 10px 10px 15px 5px;
-        border-top-right-radius: 3px;
-        border-bottom-right-radius: 3px;
-    }
-    .diy-slideshow p{
-        margin: 10px 20px;
-        color: #fff;
-    }
+
 
 </style>
   
@@ -216,10 +180,12 @@ a &hellip;">
 
 
   <div class="entry-content"><p>For our upcoming meetup later this month (6PM July 22 at <a href="http://www.wiredhealthconference.com/">Lab 1500</a> downtown), we are trying a new format in our meetup rotation: we will screen
-a handful of presentations from the main <a href="http://quantifiedself.com/">QS blog</a>, which has accumulated hundreds videos from meetup groups around the world. That’s
-a lot of great talks to choose from. Over at the <a href="http://vimeo.com/groups/quantifiedself/sort:plays/format:detail">QS group page at Vimeo</a> where the videos are stored,
-it’s straightforward to sort the videos by number of plays or likes. Below is a listing of the top ten videos ranked by number of plays. At the meetup we’ll let attendees vote for the
-ones they’re most interested in watching.</p>
+a handful of presentations from the main <a href="http://quantifiedself.com/">QS blog</a>, which has accumulated hundreds of videos from meetup groups around the world. That’s
+a lot of great talks to choose from. Over on the <a href="http://vimeo.com/groups/quantifiedself/sort:plays/format:detail">QS group page at Vimeo</a> where the videos are stored,
+it’s straightforward to sort the videos by popularity and date. Below is a listing of the top ten videos ranked by number of plays.</p>
+
+<p>We’ve set up an <a href="https://github.com/QuantifiedSTL/QuantifiedSTL.github.io/wiki/Choosing-QS-presentations-to-watch">editable GitHub wiki page</a>
+for potential attendees to vote for videos they’d like to watch at our next meetup. At the meetup we’ll review the list and collectively decide which ones to watch.</p>
 
 <table>
   <thead>
@@ -306,13 +272,143 @@ ones they’re most interested in watching.</p>
 </table>
 
 <p><br />
-We also came across a ‘must see’ interview with the founders of the original QS group in San Francisco, Gary Wolf and Kevin Kelly, recorded
+We also came across a ‘must see’ <a href="http://fora.tv/2012/10/15/Wireds_Gary_Wolf__Kevin_Kelly_Talk_the_Quantified_Self">interview</a> with the
+founders of the original QS group in San Francisco, Gary Wolf and Kevin Kelly, recorded
 at the <a href="http://www.wiredhealthconference.com/">2012 Wired Health Conference</a>. We’ll probably kick things off with this one.</p>
 
 <div align="center">
 <object id="flashObj" width="720" height="405" align="center" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,47,0"><param name="movie" value="http://c.brightcove.com/services/viewer/federated_f9?isVid=1&amp;isUI=1" /><param name="bgcolor" value="#FFFFFF" /><param name="flashVars" value="videoId=3374291983001&amp;playerID=2667782314001&amp;playerKey=AQ~~,AAACbMgRlRk~,KnD13XNmCDbaQaYJoi7oVUVvvzDNPdac&amp;domain=embed&amp;dynamicStreaming=true" /><param name="base" value="http://admin.brightcove.com" /><param name="seamlesstabbing" value="false" /><param name="allowFullScreen" value="true" /><param name="swLiveConnect" value="true" /><param name="allowScriptAccess" value="always" /><embed src="http://c.brightcove.com/services/viewer/federated_f9?isVid=1&amp;isUI=1" bgcolor="#FFFFFF" flashvars="videoId=3374291983001&amp;playerID=2667782314001&amp;playerKey=AQ~~,AAACbMgRlRk~,KnD13XNmCDbaQaYJoi7oVUVvvzDNPdac&amp;domain=embed&amp;dynamicStreaming=true" base="http://admin.brightcove.com" name="flashObj" width="720" height="405" seamlesstabbing="false" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" swliveconnect="true" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" /></object>
 </div>
 
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2014/06/06/june-meetup/">QS Civic Hacking</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2014-06-06T00:00:00-05:00" pubdate data-updated="true">Jun 6<span>th</span>, 2014</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><div class="post-photo" align="center">
+	<div class="bogus-wrapper"><notextile><figure>
+		<img src="../../../../../images/meetup_photos/2014_06/Lab1500.jpg" />
+		<figcaption>Rockin&#8217; it at Lab1500</figcaption>
+	</figure></notextile></div>
+</div>
+
+<p><em>Article under construction…</em></p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2014/05/02/april-meetup/">Show and Tell #2 Recap</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2014-05-02T00:00:00-05:00" pubdate data-updated="true">May 2<span>nd</span>, 2014</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><div class="post-photo" align="center">
+	<div class="bogus-wrapper"><notextile><figure>
+		<img src="../../../../../images/meetup_photos/2014_04/andrewknightpresents.JPG" />
+		<figcaption>Andrew Knight electrifies the audience</figcaption>
+	</figure></notextile></div>
+</div>
+
+<p><em>Article under construction…</em></p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2014/03/14/march-meetup/">QS Working Session #1</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2014-03-14T00:00:00-05:00" pubdate data-updated="true">Mar 14<span>th</span>, 2014</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><div class="post-photo" align="center">
+	<div class="bogus-wrapper"><notextile><figure>
+		<img src="../../../../../images/meetup_photos/2014_03/groupshot.jpg" />
+		<figcaption>Self Quantifiers Unite!</figcaption>
+	</figure></notextile></div>
+</div>
+
+<p><em>Article under construction…</em></p>
 </div>
   
   
@@ -348,19 +444,12 @@ at the <a href="http://www.wiredhealthconference.com/">2012 Wired Health Confere
   </header>
 
 
-  <div class="entry-content"><div class="diy-slideshow">
-	<div class="bogus-wrapper"><notextile><figure class="show">
-		<img src="http://photos1.meetupstatic.com/photos/event/a/0/a/2/highres_326261122.jpeg" />
-		<figcaption>Welcome to Quantified Self St. Louis!</figcaption>
-	</figure></notextile></div>
+  <div class="entry-content"><div class="post-photo" align="center">
 	<div class="bogus-wrapper"><notextile><figure>
-		<img src="http://photos4.meetupstatic.com/photos/event/a/0/c/0/highres_326261152.jpeg" />
+		<img src="../../../../../images/meetup_photos/2014_01/mingling.jpeg" />
 		<figcaption>Self Quantifiers mingle before the session.</figcaption>
 	</figure></notextile></div>
-  <span class="prev">&laquo;</span>
-  <span class="next">&raquo;</span>
 </div>
-<script src="../../../../../javascripts/posts/inaugural_meetup/diySlideShow.js"></script>
 
 <p>Our fledgling St. Louis QS meetup group got off to a great start with our first <a href="http://www.meetup.com/QS-STL/events/157767622/">meetup</a>
 Tuesday evening, Jan. 21, 2014.  The event was held at the <a href="http://fltc.wustl.edu/">Farrell Learning and Teaching Center</a> on the
@@ -408,6 +497,18 @@ as Metronome. Metronome seeks to break down “trust” barriers in medical data
     
       <li class="post">
         <a href="/blog/2014/07/05/a-screening-of-qs-presentations/">A Screening of QS Presentations</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2014/06/06/june-meetup/">QS Civic Hacking</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2014/05/02/april-meetup/">Show and Tell #2 Recap</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2014/03/14/march-meetup/">QS Working Session #1</a>
       </li>
     
       <li class="post">
