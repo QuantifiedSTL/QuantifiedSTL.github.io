@@ -4,7 +4,7 @@
   <title><![CDATA[Quantified STL]]></title>
   <link href="http://QuantifiedSTL.github.io/atom.xml" rel="self"/>
   <link href="http://QuantifiedSTL.github.io/"/>
-  <updated>2014-07-08T21:32:48-05:00</updated>
+  <updated>2014-07-08T21:50:03-05:00</updated>
   <id>http://QuantifiedSTL.github.io/</id>
   <author>
     <name><![CDATA[QSTL]]></name>
@@ -18,13 +18,14 @@
     <link href="http://QuantifiedSTL.github.io/blog/2014/07/05/a-screening-of-qs-presentations/"/>
     <updated>2014-07-05T00:00:00-05:00</updated>
     <id>http://QuantifiedSTL.github.io/blog/2014/07/05/a-screening-of-qs-presentations</id>
-    <content type="html"><![CDATA[<p>For our upcoming meetup later this month (6PM July 22 at <a href="http://www.wiredhealthconference.com/">Lab 1500</a> downtown), we are trying a new format in our meetup rotation: we will screen
+    <content type="html"><![CDATA[<p>For our upcoming <a href="http://www.meetup.com/QS-STL/events/193827792/?a=ea1_grp&amp;rv=ea1&amp;_af_eid=193827792&amp;_af=event">meetup</a> later this month
+(6PM July 22 at <a href="http://www.wiredhealthconference.com/">Lab 1500</a> downtown), we are trying a new format in our meetup rotation: we will screen
 a handful of presentations from the main <a href="http://quantifiedself.com/">QS blog</a>, which has accumulated hundreds of videos from meetup groups around the world. That’s
 a lot of great talks to choose from. Over on the <a href="http://vimeo.com/groups/quantifiedself/sort:plays/format:detail">QS group page at Vimeo</a> where the videos are stored,
 it’s straightforward to sort the videos by popularity and date.</p>
 
 <p>We’ve set up an <a href="https://github.com/QuantifiedSTL/QuantifiedSTL.github.io/wiki/Choosing-QS-presentations-to-watch">editable GitHub wiki page</a> to gather a list of curated presentations (we invite
-fellow self quantifiers to add their favorites to the page). We’ll be sending out a poll to the Meetup group to vote on the following videos, which will determine which ones we show at the screening.</p>
+fellow self quantifiers to add their favorites to the page). We set up a <a href="http://www.meetup.com/QS-STL/polls/1107602/">poll</a> to vote on the following videos, which will determine which ones we show at the screening.</p>
 
 <table>
   <thead>
@@ -130,7 +131,20 @@ at the <a href="http://www.wiredhealthconference.com/">2012 Wired Health Confere
 	</figure></notextile></div>
 </div>
 
-<p><em>Article under construction…</em></p>
+<p>This month, Quantified Self St. Louis members joined in on the National Day of Civic Hacking by hosting their own “Quantified Us” workshop - geared at using data and devices to build a better St. Louis Metropolitan area.</p>
+
+<p>After brainstorming a number of ideas, the group came to two projects, which will be worked on long-term:</p>
+
+<ol>
+  <li>
+    <p>A Location-based polling application that would collect context-sensitive meta data on the various regions of St. Louis.  The goal is to crowdsource data to see where we feel the happiest, safest, fittest, etc. within the city.</p>
+  </li>
+  <li>
+    <p>A “Personal Enviornmental Tracker” - which will track an individual’s environmental impact on the surrounding area - with the potential to integrate into community/neighborhood and service-level(e.g. taxi/metrolink) impacts.</p>
+  </li>
+</ol>
+
+<p>We will be making note of any progress on future blog posts!</p>
 ]]></content>
   </entry>
   
