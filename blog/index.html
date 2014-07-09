@@ -1,0 +1,557 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>Quantified STL</title>
+  <meta name="author" content="QSTL">
+
+  
+  <meta name="description" content="For our upcoming meetup later this month (6PM July 22 at Lab 1500 downtown), we are trying a new format in our meetup rotation: we will screen
+a &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://QuantifiedSTL.github.io/blog">
+  <link href="/favicon.png" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <link href="/stylesheets/data-table.css" media="screen, projection" rel="stylesheet" type="text/css" >
+  <link href="/atom.xml" rel="alternate" title="Quantified STL" type="application/atom+xml">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  <script>!window.jQuery && document.write(unescape('%3Cscript src="./javascripts/libs/jquery.min.js"%3E%3C/script%3E'))</script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+      jax: ["input/TeX", "output/HTML-CSS"],
+      tex2jax: {
+        inlineMath: [ ['$', '$'], ["\\(", "\\)"] ],
+        displayMath: [ ['$$', '$$'], ["\\[", "\\]"] ],
+        processEscapes: true,
+        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
+      }
+      //,
+      //displayAlign: "left",
+      //displayIndent: "2em"
+    });
+</script>
+<script src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML" type="text/javascript"></script>
+
+<script src='//api.tiles.mapbox.com/mapbox.js/v1.5.2/mapbox.js'></script>
+<link href='//api.tiles.mapbox.com/mapbox.js/v1.5.2/mapbox.css' rel='stylesheet'/>
+
+<script type="text/javascript">
+    var BASE_URL = '';
+</script>
+
+<style>
+    .mapinfo {
+        padding: 6px 8px;
+        font: 14px/16px Arial, Helvetica, sans-serif;
+        background: white;
+        background: rgba(255, 255, 255, 0.8);
+        box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+        border-radius: 5px;
+    }
+
+    .mapinfo h4 {
+        margin: 0 0 5px;
+        color: #777;
+    }
+
+    .mapboxmap {
+        border-width:1px;
+        border-style:solid;
+        border-color:#CCCCCC;
+    }
+    .mapcaption {
+        color: #666666;
+        font-size: smaller;
+    }
+
+    .post-photo{
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 25px;
+        width:  100%;
+        position: relative;
+        display: block;
+        overflow: hidden;
+    }
+    /*.post-photo figure{*/
+        /*position: absolute;*/
+        /*opacity: 0;*/
+    /*}*/
+    .post-photo figure img {
+        width: 100%;
+    }
+    .post-photo figcaption{
+        position: absolute;
+        font-family: sans-serif;
+        font-size: .8em;
+        bottom: .75em;
+        right: .35em;
+        padding: .25em;
+        color: #fff;
+        background: rgba(0,0,0, .25);
+        border-radius: 2px;
+    }
+    .post-photo figcaption a{
+        color: #fff;
+    }
+
+
+</style>
+  
+
+
+
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+  <h1><a href="/">Quantified STL</a></h1>
+  
+    <h2>self knowledge through numbers</h2>
+  
+</hgroup>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+  
+<form action="http://google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:QuantifiedSTL.github.io" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<ul class="main-navigation">
+    <li><a href="/blog/archives">Archive</a></li>
+  <li><a href="/blog/">Latest</a></li>
+  <li><a href="https://github.com/QuantifiedSTL" target="_blank">GitHub</a></li>
+</ul>
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div class="blog-index">
+  
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2014/07/05/a-screening-of-qs-presentations/">A Screening of QS Presentations</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2014-07-05T00:00:00-05:00" pubdate data-updated="true">Jul 5<span>th</span>, 2014</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>For our upcoming meetup later this month (6PM July 22 at <a href="http://www.wiredhealthconference.com/">Lab 1500</a> downtown), we are trying a new format in our meetup rotation: we will screen
+a handful of presentations from the main <a href="http://quantifiedself.com/">QS blog</a>, which has accumulated hundreds of videos from meetup groups around the world. That’s
+a lot of great talks to choose from. Over on the <a href="http://vimeo.com/groups/quantifiedself/sort:plays/format:detail">QS group page at Vimeo</a> where the videos are stored,
+it’s straightforward to sort the videos by popularity and date.</p>
+
+<p>We’ve set up an <a href="https://github.com/QuantifiedSTL/QuantifiedSTL.github.io/wiki/Choosing-QS-presentations-to-watch">editable GitHub wiki page</a> to gather a list of curated presentations (we invite
+fellow self quantifiers to add their favorites to the page). We’ll be sending out a poll to the Meetup group to vote on the following videos, which will determine which ones we show at the screening.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>plays</th>
+      <th style="text-align: center">likes</th>
+      <th>presentation</th>
+      <th style="text-align: center">date</th>
+      <th style="text-align: center">length (min)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>141347</td>
+      <td style="text-align: center">162</td>
+      <td><a href="http://quantifiedself.com/2011/11/roger-craig-on-knowledge-tracking/">Roger Craig Wins Jeopardy Championship with Knowledge Tracking</a></td>
+      <td style="text-align: center">2011/11/17</td>
+      <td style="text-align: center">14.3</td>
+    </tr>
+    <tr>
+      <td>3515</td>
+      <td style="text-align: center">12</td>
+      <td><a href="http://quantifiedself.com/2013/12/mark-moschel-tracking-rejections/">Mark Moschel on Tracking Rejection</a></td>
+      <td style="text-align: center">2013/12/07</td>
+      <td style="text-align: center">5.2</td>
+    </tr>
+    <tr>
+      <td>241</td>
+      <td style="text-align: center">0</td>
+      <td><a href="http://vimeo.com/99571921">Jamie Aspinall - Location History</a></td>
+      <td style="text-align: center">2013/06/30</td>
+      <td style="text-align: center">22.0</td>
+    </tr>
+    <tr>
+      <td>2281</td>
+      <td style="text-align: center">1</td>
+      <td><a href="http://vimeo.com/groups/quantifiedself/videos/72048184">Matthew Ames - One Small Step on the Scale</a></td>
+      <td style="text-align: center">2013/08/09</td>
+      <td style="text-align: center">12.5</td>
+    </tr>
+    <tr>
+      <td>599</td>
+      <td style="text-align: center">1</td>
+      <td><a href="http://vimeo.com/81272562">Vivienne Ming - Tracking my Son’s Diabetes</a></td>
+      <td style="text-align: center">2013/12/07</td>
+      <td style="text-align: center">13.0</td>
+    </tr>
+    <tr>
+      <td>2142</td>
+      <td style="text-align: center">9</td>
+      <td><a href="http://vimeo.com/groups/quantifiedself/videos/83913668">Zen and the art of quantified self</a></td>
+      <td style="text-align: center">2014/01/11</td>
+      <td style="text-align: center">23.3</td>
+    </tr>
+    <tr>
+      <td>n/a</td>
+      <td style="text-align: center">n/a</td>
+      <td><a href="http://quantselflafont.com/2014/04/07/stress-trigger-personal-survey/">Paul LaFontaine - Stress Trigger Personal Survey</a></td>
+      <td style="text-align: center">2014/04/07</td>
+      <td style="text-align: center">7.5</td>
+    </tr>
+    <tr>
+      <td>790</td>
+      <td style="text-align: center">1</td>
+      <td><a href="http://vimeo.com/78020552">David El Achkar - How Six Months of Tracking Everything Increased my Awareness</a></td>
+      <td style="text-align: center">2013/10/28</td>
+      <td style="text-align: center">13.0</td>
+    </tr>
+    <tr>
+      <td>1842</td>
+      <td style="text-align: center">19</td>
+      <td><a href="http://vimeo.com/groups/quantifiedself/videos/52984751">Amy Robinson - QS Conference 2012 - Quantified Curiosity</a></td>
+      <td style="text-align: center">2012/11/07</td>
+      <td style="text-align: center">15.0</td>
+    </tr>
+    <tr>
+      <td>1008</td>
+      <td style="text-align: center">4</td>
+      <td><a href="http://vimeo.com/77972740">Maggie Delano on ECG and Activity Tracking</a></td>
+      <td style="text-align: center">2013/10/28</td>
+      <td style="text-align: center">15.5</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><br />
+We also came across a ‘must see’ <a href="http://fora.tv/2012/10/15/Wireds_Gary_Wolf__Kevin_Kelly_Talk_the_Quantified_Self">interview</a> with the
+founders of the original QS group in San Francisco, Gary Wolf and Kevin Kelly, recorded
+at the <a href="http://www.wiredhealthconference.com/">2012 Wired Health Conference</a>. This gives a great introduction and overview to what the Quantified Self movement is all about.</p>
+
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2014/06/06/june-meetup/">QS Civic Hacking</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2014-06-06T00:00:00-05:00" pubdate data-updated="true">Jun 6<span>th</span>, 2014</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><div class="post-photo" align="center">
+	<div class="bogus-wrapper"><notextile><figure>
+		<img src="../../../../../images/meetup_photos/2014_06/Lab1500.jpg" />
+		<figcaption>Rockin&#8217; it at Lab1500</figcaption>
+	</figure></notextile></div>
+</div>
+
+<p><em>Article under construction…</em></p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2014/05/02/april-meetup/">Show and Tell #2 Recap</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2014-05-02T00:00:00-05:00" pubdate data-updated="true">May 2<span>nd</span>, 2014</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><div class="post-photo" align="center">
+	<div class="bogus-wrapper"><notextile><figure>
+		<img src="../../../../../images/meetup_photos/2014_04/andrewknightpresents.JPG" />
+		<figcaption>Andrew Knight electrifies the audience</figcaption>
+	</figure></notextile></div>
+</div>
+
+<p><em>Article under construction…</em></p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2014/03/14/march-meetup/">QS Working Session #1</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2014-03-14T00:00:00-05:00" pubdate data-updated="true">Mar 14<span>th</span>, 2014</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><div class="post-photo" align="center">
+	<div class="bogus-wrapper"><notextile><figure>
+		<img src="../../../../../images/meetup_photos/2014_03/groupshot.jpg" />
+		<figcaption>Self Quantifiers Unite!</figcaption>
+	</figure></notextile></div>
+</div>
+
+<p><em>Article under construction…</em></p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2014/01/24/highlights-from-the-inaugural-meetup/">Highlights From the Inaugural Meetup</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2014-01-24T00:00:00-06:00" pubdate data-updated="true">Jan 24<span>th</span>, 2014</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><div class="post-photo" align="center">
+	<div class="bogus-wrapper"><notextile><figure>
+		<img src="../../../../../images/meetup_photos/2014_01/mingling.jpeg" />
+		<figcaption>Self Quantifiers mingle before the session.</figcaption>
+	</figure></notextile></div>
+</div>
+
+<p>Our fledgling St. Louis QS meetup group got off to a great start with our first <a href="http://www.meetup.com/QS-STL/events/157767622/">meetup</a>
+Tuesday evening, Jan. 21, 2014.  The event was held at the <a href="http://fltc.wustl.edu/">Farrell Learning and Teaching Center</a> on the
+Washington University campus. The meeting started off with a round of introductions and comments from the three organizers:
+<a href="http://www.linkedin.com/pub/william-dahl/15/407/274">Will Dahl</a>, <a href="https://twitter.com/k_chirp">Karren Watkins</a>, and <a href="https://twitter.com/DanReus">Dan Reus</a>.
+They articulated their vision for the group and elicited feedback from the audience.</p>
+
+<p>The event was a ‘show and tell’ type meetup, with three scheduled presenters:</p>
+
+<p>Jim McCarter - Jim is an MD, PhD who tracks many, many metrics related to his health. He presented on his experience measuring,
+supplementing, and re-measuring his Omega 3 fatty acid levels over a course of 6 months. He related this to the growing phenomenon of
+<a href="http://www.scientificamerican.com/citizen-science/">Citizen Science</a> in which people utilize self-tracking and self-experimentation to arrive at new insights.</p>
+
+<p>Karren Watkins - Karren is a research associate at Washington University’s Olin Business School and uses a device, called a <a href="http://www.sociometricsolutions.com/">Sociometer</a>,
+to capture group dynamics and interpersonal skills in student teams. She shared how wearing a sociometer can reveal unnoticed patterns in
+team settings and covered the challenges of developing useful feedback reports  and data visualizations for students.</p>
+
+<p>Dan Reus - Dan is the founder of <a href="http://openlydisruptive.org/">Openly Disruptive</a>, which explores the junction where ideas, technology, and context meet in our evolving world.
+He discussed issues related to the transfer (or lack thereof) of health-related data between patients and healthcare providers, rooted in
+his own history with the heart condition ventricular tachycardia. Dan has rebounded back from that situation in organizing an initiative known
+as Metronome. Metronome seeks to break down “trust” barriers in medical data transfer, empowering all parties to take appropriate action.</p>
+
+<p>We had a great turnout for our first event (and can’t wait for the <a href="http://www.meetup.com/QS-STL/events/167014482/?a=ra1_vl&amp;_af_eid=167014482&amp;_af=event">next one</a>!) - over
+30 people, from a variety of industries and backgrounds. Major thanks to the <a href="http://www.thebalsagroup.org/">BALSA Group</a> for sponsoring the event and providing food and drinks!</p>
+
+</div>
+  
+  
+
+
+    </article>
+  
+  <div class="pagination">
+    
+    <a href="/blog/archives">Index</a>
+    
+  </div>
+</div>
+<aside class="sidebar">
+  
+    <section>
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
+    
+    
+      <li class="post">
+        <a href="/blog/2014/07/05/a-screening-of-qs-presentations/">A Screening of QS Presentations</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2014/06/06/june-meetup/">QS Civic Hacking</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2014/05/02/april-meetup/">Show and Tell #2 Recap</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2014/03/14/march-meetup/">QS Working Session #1</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2014/01/24/highlights-from-the-inaugural-meetup/">Highlights From the Inaugural Meetup</a>
+      </li>
+    
+  </ul>
+</section>
+<section>
+  <h1>Follow</h1>
+  <p>meetup: <a href="http://www.meetup.com/QS-STL/" target="_blank">Quantified Self STL</a></p>
+  <p>twitter: <a href="http://twitter.com/quantifiedstl" target="_blank">QuantifiedSTL</a></p>
+  <p>facebook: <a href="http://facebook.com/quantifiedstl" target="_blank">Quantified STL</a></p>
+</section>
+
+  
+</aside>
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2014 - QSTL -
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+</p>
+
+</footer>
+  
+
+
+
+
+
+
+
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = '//platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+
+
+
+</body>
+</html>
