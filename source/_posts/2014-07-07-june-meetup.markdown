@@ -17,5 +17,12 @@ published: true
 	</figure>
 </div>
 
+This month, Quantified Self St. Louis members joined in on the National Day of Civic Hacking by hosting their own "Quantified Us" workshop - geared at using data and devices to build a better St. Louis Metropolitan area.
 
-_Article under construction..._
+After brainstorming a number of ideas, the group came to two projects, which will be worked on long-term:
+
+1. A Location-based polling application that would collect context-sensitive meta data on the various regions of St. Louis.  The goal is to crowdsource data to see where we feel the happiest, safest, fittest, etc. within the city.
+
+2. A "Personal Enviornmental Tracker" - which will track an individual's environmental impact on the surrounding area - with the potential to integrate into community/neighborhood and service-level(e.g. taxi/metrolink) impacts.
+
+We will be making note of any progress on future blog posts!
