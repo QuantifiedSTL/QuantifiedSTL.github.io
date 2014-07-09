@@ -3,14 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="24a6bd59-99cd-4a59-9abd-962b8c7c8aed" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/2014-07-05-a-screening-of-qs-presentations.markdown" afterPath="$PROJECT_DIR$/source/_posts/2014-07-05-a-screening-of-qs-presentations.markdown" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/2014-07-05-highlights-from-the-inaugural-meetup.markdown" afterPath="$PROJECT_DIR$/source/_posts/2014-07-05-highlights-from-the-inaugural-meetup.markdown" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/atom.xml" afterPath="$PROJECT_DIR$/build/atom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_includes/custom/head.html" afterPath="$PROJECT_DIR$/source/_includes/custom/head.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/index.html" afterPath="$PROJECT_DIR$/build/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/blog/index.html" afterPath="$PROJECT_DIR$/build/blog/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/blog/2014/01/24/highlights-from-the-inaugural-meetup/index.html" afterPath="$PROJECT_DIR$/build/blog/2014/01/24/highlights-from-the-inaugural-meetup/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/blog/2014/06/06/june-meetup/index.html" afterPath="$PROJECT_DIR$/build/blog/2014/06/06/june-meetup/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/blog/2014/07/05/a-screening-of-qs-presentations/index.html" afterPath="$PROJECT_DIR$/build/blog/2014/07/05/a-screening-of-qs-presentations/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/blog/archives/index.html" afterPath="$PROJECT_DIR$/build/blog/archives/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/sitemap.xml" afterPath="$PROJECT_DIR$/build/sitemap.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -35,10 +32,34 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="2014-07-07-april-meetup.markdown" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="2014-07-05-a-screening-of-qs-presentations.markdown" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/source/_posts/2014-07-05-a-screening-of-qs-presentations.markdown">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="36" column="125" selection-start="3077" selection-end="3077" vertical-scroll-proportion="0.62068963" vertical-offset="0" max-vertical-offset="870">
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2014-07-07-april-meetup.markdown" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/_posts/2014-07-07-april-meetup.markdown">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="31" selection-start="395" selection-end="395" vertical-scroll-proportion="0.3227633" vertical-offset="0" max-vertical-offset="883">
+            <state line="19" column="27" selection-start="391" selection-end="391" vertical-scroll-proportion="-10.555555" vertical-offset="0" max-vertical-offset="375">
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2014-07-05-highlights-from-the-inaugural-meetup.markdown" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/_posts/2014-07-05-highlights-from-the-inaugural-meetup.markdown">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="26" column="54" selection-start="1135" selection-end="1139" vertical-scroll-proportion="-14.444445" vertical-offset="0" max-vertical-offset="735">
               <folding />
             </state>
           </provider>
@@ -75,12 +96,12 @@
         <option value="$PROJECT_DIR$/source/_includes/custom/asides/about.html" />
         <option value="$PROJECT_DIR$/sass/custom/_layout.scss" />
         <option value="$PROJECT_DIR$/sass/custom/_fonts.scss" />
-        <option value="$PROJECT_DIR$/source/_posts/2014-07-05-a-screening-of-qs-presentations.markdown" />
         <option value="$PROJECT_DIR$/source/_includes/custom/head.html" />
-        <option value="$PROJECT_DIR$/source/_posts/2014-07-05-highlights-from-the-inaugural-meetup.markdown" />
         <option value="$PROJECT_DIR$/source/_posts/2014-07-07-june-meetup.markdown" />
         <option value="$PROJECT_DIR$/source/_posts/2014-07-07-march-meetup.markdown" />
         <option value="$PROJECT_DIR$/source/_posts/2014-07-07-april-meetup.markdown" />
+        <option value="$PROJECT_DIR$/source/_posts/2014-07-05-highlights-from-the-inaugural-meetup.markdown" />
+        <option value="$PROJECT_DIR$/source/_posts/2014-07-05-a-screening-of-qs-presentations.markdown" />
       </list>
     </option>
   </component>
@@ -505,26 +526,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/2014-07-05-a-screening-of-qs-presentations.markdown">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="164" selection-start="1116" selection-end="1116" vertical-scroll-proportion="0.28428093" vertical-offset="0" max-vertical-offset="897">
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/2014-07-05-highlights-from-the-inaugural-meetup.markdown">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="123" selection-start="761" selection-end="761" vertical-scroll-proportion="0.33975086" vertical-offset="0" max-vertical-offset="883">
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/_posts/2014-07-07-june-meetup.markdown">
       <provider selected="true" editor-type-id="text-editor">
         <state line="19" column="0" selection-start="328" selection-end="360" vertical-scroll-proportion="0.3227633" vertical-offset="0" max-vertical-offset="883">
@@ -547,7 +548,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/source/_posts/2014-07-07-april-meetup.markdown">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="31" selection-start="395" selection-end="395" vertical-scroll-proportion="0.3227633" vertical-offset="0" max-vertical-offset="883">
+        <state line="19" column="27" selection-start="391" selection-end="391" vertical-scroll-proportion="-10.555555" vertical-offset="0" max-vertical-offset="375">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/2014-07-05-highlights-from-the-inaugural-meetup.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="54" selection-start="1135" selection-end="1139" vertical-scroll-proportion="-14.444445" vertical-offset="0" max-vertical-offset="735">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/2014-07-05-a-screening-of-qs-presentations.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="125" selection-start="3077" selection-end="3077" vertical-scroll-proportion="0.62068963" vertical-offset="0" max-vertical-offset="870">
           <folding />
         </state>
       </provider>

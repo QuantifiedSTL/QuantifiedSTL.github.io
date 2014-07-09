@@ -9,35 +9,31 @@ author: Jamie Williams
 published: true
 ---
 
-For our upcoming meetup later this month (6PM July 22 at [Lab 1500](http://www.wiredhealthconference.com/) downtown), we are trying a new format in our meetup rotation: we will screen
+For our upcoming [meetup](http://www.meetup.com/QS-STL/events/193827792/?a=ea1_grp&rv=ea1&_af_eid=193827792&_af=event) later this month
+(6PM July 22 at [Lab 1500](http://www.wiredhealthconference.com/) downtown), we are trying a new format in our meetup rotation: we will screen
 a handful of presentations from the main [QS blog](http://quantifiedself.com/), which has accumulated hundreds of videos from meetup groups around the world. That's
 a lot of great talks to choose from. Over on the [QS group page at Vimeo](http://vimeo.com/groups/quantifiedself/sort:plays/format:detail) where the videos are stored,
-it's straightforward to sort the videos by popularity and date. Below is a listing of the top ten videos ranked by number of plays.
+it's straightforward to sort the videos by popularity and date.
 
-We've set up an [editable GitHub wiki page](https://github.com/QuantifiedSTL/QuantifiedSTL.github.io/wiki/Choosing-QS-presentations-to-watch)
-for potential attendees to vote for videos they'd like to watch at our next meetup. At the meetup we'll review the list and collectively decide which ones to watch.
-
+We've set up an [editable GitHub wiki page](https://github.com/QuantifiedSTL/QuantifiedSTL.github.io/wiki/Choosing-QS-presentations-to-watch) to gather a list of curated presentations (we invite
+fellow self quantifiers to add their favorites to the page). We set up a [poll](http://www.meetup.com/QS-STL/polls/1107602/) to vote on the following videos, which will determine which ones we show at the screening.
 
 | plays | likes | presentation | date | length (min) |
 | ----------- | :------------: | ----------- | :-----------: | :-----------: |
-| 141347 | 162 | <a href="http://quantifiedself.com/2011/11/roger-craig-on-knowledge-tracking/">Roger Craig Wins Jeopardy Championship with Knowledge Tracking</a> | 2011/11/17 | 14.3 |
-| 6444 | 6 | <a href="http://quantifiedself.com/2010/10/eri-gentry-on-butter-mindcocon/">Eri Gentry on Butter Mind/Coconut Mind</a> | 2010/10/16 | 4.7 |
-| 5879 | 5 | <a href="http://quantifiedself.com/2009/06/hulda-emilsdottir-and-josh-kle/">Hulda Emilsdottir and Josh Klein on Tracking Possessions</a> | 2009/06/20 | 12.8 |
-| 3515 | 12 | <a href="http://quantifiedself.com/2013/12/mark-moschel-tracking-rejections/">Mark Moschel on Tracking Rejection</a> | 2013/12/07 | 5.2 |
-| 3438 | 8 | <a href="http://quantifiedself.com/2010/02/a-remarkable-life-logging-proj/">A Remarkable Life Logging Project by Ben Lipkowitz</a> | 2010/2/27 | 12.2 |
-| 3369 | 5 | <a href="http://quantifiedself.com/2010/09/seth-roberts-on-arithmetic-and/">Seth Roberts on Arithmetic and Butter</a> | 2010/09/29 | 15.3 |
-| 3313 | 15 | <a href="http://vimeo.com/groups/quantifiedself/videos/37869516">Rick Smolan - The Human Face of Big Data</a> | 2012/2/22 | 10.0 |
-| 3149 | 6 | <a href="http://quantifiedself.com/2012/07/nick-winter-a-lazy-mans-approach-to-cognitive-testing/">Nick Winter: The Lazy Man Approach to Cognitive Testing</a> | 2012/07/30 | 16.1 |
-| 3105 | 14 | <a href="http://quantifiedself.com/2012/01/amelia-greenhall-weigh-everyday-understanding/">Amelia Greenhall: Weigh Everyday = Understanding</a> | 2012/01/02 | 16.8 |
-| 2980 | 13 | <a href="http://quantifiedself.com/2012/05/jeremy-howard-on-language-acquisition-performance/">Jeremy Howard on Language Acquisition Performance</a> | 2012/05/28 | 16.0 |
+| 141347 | 162 | [Roger Craig Wins Jeopardy Championship with Knowledge Tracking](http://quantifiedself.com/2011/11/roger-craig-on-knowledge-tracking/) | 2011/11/17 | 14.3 |
+| 3515 | 12 | [Mark Moschel on Tracking Rejection](http://quantifiedself.com/2013/12/mark-moschel-tracking-rejections/) | 2013/12/07 | 5.2 |
+| 241 | 0 | [Jamie Aspinall - Location History](http://vimeo.com/99571921) | 2013/06/30 | 22.0 |
+| 2281 | 1 | [Matthew Ames - One Small Step on the Scale](http://vimeo.com/groups/quantifiedself/videos/72048184) | 2013/08/09 | 12.5 |
+| 599 | 1 | [Vivienne Ming - Tracking my Son's Diabetes](http://vimeo.com/81272562) | 2013/12/07 | 13.0 |
+| 2142 | 9 | [Zen and the art of quantified self](http://vimeo.com/groups/quantifiedself/videos/83913668) | 2014/01/11 | 23.3 |
+| n/a | n/a | [Paul LaFontaine - Stress Trigger Personal Survey](http://quantselflafont.com/2014/04/07/stress-trigger-personal-survey/) | 2014/04/07 | 7.5 |
+| 790 | 1 | [David El Achkar - How Six Months of Tracking Everything Increased my Awareness](http://vimeo.com/78020552) | 2013/10/28 | 13.0 |
+| 1842 | 19 | [Amy Robinson - QS Conference 2012 - Quantified Curiosity](http://vimeo.com/groups/quantifiedself/videos/52984751) | 2012/11/07 | 15.0 |
+| 1008 | 4 | [Maggie Delano on ECG and Activity Tracking](http://vimeo.com/77972740) | 2013/10/28 | 15.5 |
 
 <br>
 We also came across a 'must see' [interview](http://fora.tv/2012/10/15/Wireds_Gary_Wolf__Kevin_Kelly_Talk_the_Quantified_Self) with the
 founders of the original QS group in San Francisco, Gary Wolf and Kevin Kelly, recorded
-at the [2012 Wired Health Conference](http://www.wiredhealthconference.com/). We'll probably kick things off with this one.
-
-<div align="center">
-<object id="flashObj" width="720" height="405" align="center" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,47,0"><param name="movie" value="http://c.brightcove.com/services/viewer/federated_f9?isVid=1&isUI=1" /><param name="bgcolor" value="#FFFFFF" /><param name="flashVars" value="videoId=3374291983001&playerID=2667782314001&playerKey=AQ~~,AAACbMgRlRk~,KnD13XNmCDbaQaYJoi7oVUVvvzDNPdac&domain=embed&dynamicStreaming=true" /><param name="base" value="http://admin.brightcove.com" /><param name="seamlesstabbing" value="false" /><param name="allowFullScreen" value="true" /><param name="swLiveConnect" value="true" /><param name="allowScriptAccess" value="always" /><embed src="http://c.brightcove.com/services/viewer/federated_f9?isVid=1&isUI=1" bgcolor="#FFFFFF" flashVars="videoId=3374291983001&playerID=2667782314001&playerKey=AQ~~,AAACbMgRlRk~,KnD13XNmCDbaQaYJoi7oVUVvvzDNPdac&domain=embed&dynamicStreaming=true" base="http://admin.brightcove.com" name="flashObj" width="720" height="405" seamlesstabbing="false" type="application/x-shockwave-flash" allowFullScreen="true" allowScriptAccess="always" swLiveConnect="true" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></embed></object>
-</div>
+at the [2012 Wired Health Conference](http://www.wiredhealthconference.com/). This gives a great introduction and overview of what the Quantified Self movement is all about.
 
 
