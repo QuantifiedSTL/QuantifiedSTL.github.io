@@ -22,10 +22,10 @@ fellow self quantifiers to add their favorites to the page). We set up a [poll](
 | ----------- | :------------: | ----------- | :-----------: | :-----------: |
 | 141347 | 162 | [Roger Craig Wins Jeopardy Championship with Knowledge Tracking](http://quantifiedself.com/2011/11/roger-craig-on-knowledge-tracking/) | 2011/11/17 | 14.3 |
 | 3515 | 12 | [Mark Moschel on Tracking Rejection](http://quantifiedself.com/2013/12/mark-moschel-tracking-rejections/) | 2013/12/07 | 5.2 |
-| 241 | 0 | [Jamie Aspinall - Location History](http://vimeo.com/99571921) | 2013/06/30 | 22.0 |
+| 241 | 0 | [Jamie Aspinall - Location History](http://vimeo.com/99571921) | 2014/06/30 | 22.0 |
 | 2281 | 1 | [Matthew Ames - One Small Step on the Scale](http://vimeo.com/groups/quantifiedself/videos/72048184) | 2013/08/09 | 12.5 |
 | 599 | 1 | [Vivienne Ming - Tracking my Son's Diabetes](http://vimeo.com/81272562) | 2013/12/07 | 13.0 |
-| 2142 | 9 | [Zen and the art of quantified self](http://vimeo.com/groups/quantifiedself/videos/83913668) | 2014/01/11 | 23.3 |
+| 2142 | 9 | [Gary Monk - Zen and the art of quantified self](http://vimeo.com/groups/quantifiedself/videos/83913668) | 2014/01/11 | 23.3 |
 | n/a | n/a | [Paul LaFontaine - Stress Trigger Personal Survey](http://quantselflafont.com/2014/04/07/stress-trigger-personal-survey/) | 2014/04/07 | 7.5 |
 | 790 | 1 | [David El Achkar - How Six Months of Tracking Everything Increased my Awareness](http://vimeo.com/78020552) | 2013/10/28 | 13.0 |
 | 1842 | 19 | [Amy Robinson - QS Conference 2012 - Quantified Curiosity](http://vimeo.com/groups/quantifiedself/videos/52984751) | 2012/11/07 | 15.0 |
@@ -36,4 +36,11 @@ We also came across a 'must see' [interview](http://fora.tv/2012/10/15/Wireds_Ga
 founders of the original QS group in San Francisco, Gary Wolf and Kevin Kelly, recorded
 at the [2012 Wired Health Conference](http://www.wiredhealthconference.com/). This gives a great introduction and overview of what the Quantified Self movement is all about.
 
+To help curate the presentations, I set out to do some exploratory analytics on the various attributes that one can scrape from the web. I created
+an [iPython](http://ipython.org/) notebook and added it to our [spikes](https://github.com/QuantifiedSTL/spikes/tree/master/QSBlogAnaltyics)
+GitHub repo. I didn't get very far, but one fun little graph I pulled out is a _histogram of video durations_, shown below. I had in
+mind doing some analytics on the tagging of the videos, for example, one could look at the most common or popular tags as a function of time.
 
+<div align="center">
+        <img src="../../../../../images/durationhistogram.svg"/>
+</div>
