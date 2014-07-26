@@ -2,11 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="24a6bd59-99cd-4a59-9abd-962b8c7c8aed" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/2014-07-05-a-screening-of-qs-presentations.markdown" afterPath="$PROJECT_DIR$/source/_posts/2014-07-05-a-screening-of-qs-presentations.markdown" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/atom.xml" afterPath="$PROJECT_DIR$/build/atom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_includes/custom/head.html" afterPath="$PROJECT_DIR$/source/_includes/custom/head.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/index.html" afterPath="$PROJECT_DIR$/build/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/blog/index.html" afterPath="$PROJECT_DIR$/build/blog/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/blog/2014/01/24/highlights-from-the-inaugural-meetup/index.html" afterPath="$PROJECT_DIR$/build/blog/2014/01/24/highlights-from-the-inaugural-meetup/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/blog/2014/03/14/march-meetup/index.html" afterPath="$PROJECT_DIR$/build/blog/2014/03/14/march-meetup/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/blog/2014/05/02/april-meetup/index.html" afterPath="$PROJECT_DIR$/build/blog/2014/05/02/april-meetup/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/blog/2014/06/06/june-meetup/index.html" afterPath="$PROJECT_DIR$/build/blog/2014/06/06/june-meetup/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/blog/2014/07/05/a-screening-of-qs-presentations/index.html" afterPath="$PROJECT_DIR$/build/blog/2014/07/05/a-screening-of-qs-presentations/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/blog/archives/index.html" afterPath="$PROJECT_DIR$/build/blog/archives/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/sitemap.xml" afterPath="$PROJECT_DIR$/build/sitemap.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -31,10 +36,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="2014-07-05-a-screening-of-qs-presentations.markdown" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="2014-07-05-a-screening-of-qs-presentations.markdown" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/_posts/2014-07-05-a-screening-of-qs-presentations.markdown">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="105" selection-start="2036" selection-end="2036" vertical-scroll-proportion="0.4347826" vertical-offset="0" max-vertical-offset="897">
+            <state line="0" column="3" selection-start="3" selection-end="17" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="780">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2014-07-24-july-meetup-recap.markdown" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/_posts/2014-07-24-july-meetup-recap.markdown">
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="29" column="0" selection-start="1168" selection-end="1168" vertical-scroll-proportion="-5.1923075" vertical-offset="165" max-vertical-offset="1410">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="head.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/source/_includes/custom/head.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="28" column="9" selection-start="1311" selection-end="1311" vertical-scroll-proportion="0.47404063" vertical-offset="0" max-vertical-offset="1500">
               <folding />
             </state>
           </provider>
@@ -43,7 +69,7 @@
       <file leaf-file-name="2014-07-05-highlights-from-the-inaugural-meetup.markdown" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/_posts/2014-07-05-highlights-from-the-inaugural-meetup.markdown">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="5" selection-start="164" selection-end="182" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="735">
+            <state line="11" column="0" selection-start="159" selection-end="370" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="735">
               <folding />
             </state>
           </provider>
@@ -67,8 +93,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/sass/custom/_colors.scss" />
-        <option value="$PROJECT_DIR$/source/_includes/head.html" />
         <option value="$PROJECT_DIR$/source/_posts/2014-07-05-choosing-qs-videos-to-watch.markdown" />
         <option value="$PROJECT_DIR$/source/stylesheets/data-table.css" />
         <option value="$PROJECT_DIR$/source/_posts/2014-07-05-choosing-qs-presentations-to-watch.markdown" />
@@ -77,12 +101,14 @@
         <option value="$PROJECT_DIR$/source/_includes/custom/asides/about.html" />
         <option value="$PROJECT_DIR$/sass/custom/_layout.scss" />
         <option value="$PROJECT_DIR$/sass/custom/_fonts.scss" />
-        <option value="$PROJECT_DIR$/source/_includes/custom/head.html" />
         <option value="$PROJECT_DIR$/source/_posts/2014-07-07-june-meetup.markdown" />
         <option value="$PROJECT_DIR$/source/_posts/2014-07-07-march-meetup.markdown" />
         <option value="$PROJECT_DIR$/source/_posts/2014-07-07-april-meetup.markdown" />
         <option value="$PROJECT_DIR$/source/_posts/2014-07-05-highlights-from-the-inaugural-meetup.markdown" />
         <option value="$PROJECT_DIR$/source/_posts/2014-07-05-a-screening-of-qs-presentations.markdown" />
+        <option value="$PROJECT_DIR$/source/javascripts/octopress.js" />
+        <option value="$PROJECT_DIR$/source/_includes/custom/head.html" />
+        <option value="$PROJECT_DIR$/source/_posts/2014-07-24-july-meetup-recap.markdown" />
       </list>
     </option>
   </component>
@@ -148,6 +174,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="source" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="octopress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="octopress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="source" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javascripts" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -358,10 +402,22 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="options.lastSelected" value="preferences.intentionPowerPack" />
     <property name="FullScreen" value="false" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RunManager">
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -372,23 +428,15 @@
       <option name="showConsoleOnStdOut" value="false" />
       <method />
     </configuration>
-    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
-      <option name="VMOptions" />
-      <option name="arguments" />
-      <option name="filePath" />
-      <option name="scope" value="ALL" />
-      <option name="testName" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
-      <envs />
-      <method />
-    </configuration>
     <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
       <setting name="configLocationType" value="CONFIG_FILE" />
       <setting name="settingsFile" value="" />
       <setting name="serverType" value="INTERNAL" />
       <setting name="preferredDebugBrowser" value="CHROME" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
@@ -416,6 +464,7 @@
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.17910448" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15413533" sideWeight="0.8208955" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -426,7 +475,6 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17910448" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -444,16 +492,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/sass/partials/_sidebar.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="742" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="57" column="54" selection-start="2270" selection-end="2270" vertical-scroll-proportion="0.0" vertical-offset="443" max-vertical-offset="1590" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/stylesheets/screen.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="1" column="0" selection-start="39851" selection-end="39851" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="105" />
@@ -494,11 +532,6 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="910" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_includes/custom/head.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="0" selection-start="1447" selection-end="1447" vertical-scroll-proportion="0.4571106" vertical-offset="195" max-vertical-offset="1335" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/_posts/2014-07-07-june-meetup.markdown">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
@@ -520,7 +553,12 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="27" selection-start="391" selection-end="391" vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="375">
+        <state line="19" column="27" selection-start="391" selection-end="391" vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="375" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/javascripts/octopress.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="2" selection-start="1381" selection-end="1381" vertical-scroll-proportion="0.6020067" vertical-offset="0" max-vertical-offset="2415">
           <folding />
         </state>
       </provider>
@@ -530,7 +568,7 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="5" selection-start="164" selection-end="182" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="735">
+        <state line="11" column="0" selection-start="159" selection-end="370" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="735">
           <folding />
         </state>
       </provider>
@@ -540,7 +578,24 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="105" selection-start="2036" selection-end="2036" vertical-scroll-proportion="0.4347826" vertical-offset="0" max-vertical-offset="897">
+        <state line="0" column="3" selection-start="3" selection-end="17" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="780">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/2014-07-24-july-meetup-recap.markdown">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="0" selection-start="1168" selection-end="1168" vertical-scroll-proportion="-5.1923075" vertical-offset="165" max-vertical-offset="1410">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_includes/custom/head.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="9" selection-start="1311" selection-end="1311" vertical-scroll-proportion="0.47404063" vertical-offset="0" max-vertical-offset="1500">
           <folding />
         </state>
       </provider>
