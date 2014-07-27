@@ -6,6 +6,7 @@ date: 2014-07-24
 comments: true
 author: Will Dahl
 categories:
+published: true
 ---
 
 <div class="post-photo" align="center">
